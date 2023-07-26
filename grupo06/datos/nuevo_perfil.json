@@ -1,0 +1,37 @@
+[
+    {
+        "Usuario": "fran",
+        "Nombre": "Juan Francisco",
+        "Edad": "23",
+        "Genero": "Masculino",
+        "Avatar": "dinosaurio.png"
+    },
+    {
+        "Usuario": "Eze",
+        "Nombre": "Ezequiel Pallini",
+        "Edad": "25",
+        "Genero": "Masculino",
+        "Avatar": "pokeball.png"
+    },
+    {
+        "Usuario": "Gaby",
+        "Nombre": "Gabriela Bamba",
+        "Edad": "23",
+        "Genero": "Femenino",
+        "Avatar": "mujer.png"
+    },
+    {
+        "Usuario": "May",
+        "Nombre": "Mayra Peguinho",
+        "Edad": "24",
+        "Genero": "Femenino",
+        "Avatar": "dinosaurio.png"
+    },
+    {
+        "Usuario": "Dynamight",
+        "Nombre": "Kat",
+        "Edad": "20",
+        "Genero": "No binario",
+        "Avatar": "hombre_traje.png"
+    }
+]
